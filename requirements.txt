@@ -3,7 +3,7 @@ asyncio
 discord.py
 requests
 flask
-discord
+discord==2.3.2
 python-dotenv
 PyYAML
 youtube-transcript-api
