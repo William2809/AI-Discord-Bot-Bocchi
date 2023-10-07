@@ -16,10 +16,12 @@ LANGUAGE: en # Specify the language code (check 'lang' folder for valid codes)
 INSTRUCTIONS: Bocchi # Specify the instruction prompt to use (check 'instructions' folder for valid prompts)
 # To add custom prompts, create a .txt file like 'custom.txt' in `instructions` folder and set INSTRUCTIONS as 'custom'
 
-Discord: https://discord.gg/6MT3CZauT8
+Discord:
 Github: https://github.com/mishalhossin/Discord-AI-Chatbot
 
 TRIGGER:
+  - Bocchi The Helper
+  - bocchi the helper
   - Bocchi
   - bocchi
   - hitori
